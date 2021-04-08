@@ -3,4 +3,6 @@ print("Oh, hi!")
 print("Mornin'".)
 print("Sup'.")
 
-print("Conflict - change in old file.")
+
+print("Conflict - change in a new branch")
+
